@@ -1,0 +1,23 @@
+# Do not accidentally publish paid design/source artifacts
+paid-package/
+private/
+original-design/
+*.kicad_pcb
+*.kicad_sch
+*.kicad_pro
+*.gbr
+*.drl
+*.dtbo
+*.dtb
+*.dtso
+*.img
+*.img.xz
+*.iso
+*.zip
+*.7z
+*.bak
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
